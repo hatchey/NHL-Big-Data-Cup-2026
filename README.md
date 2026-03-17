@@ -35,11 +35,13 @@ Key features derived from the model include:
 - Cross-seam pass probability  
 
 ## Repository Structure
+
+```
 .
 ├── notebooks/
-│ └── Big_Data_Cup_2026.ipynb
+│   └── Big_Data_Cup_2026.ipynb
 └── README.md
-## Usage
+```
 
 1. Open the notebook in Google Colab or Jupyter  
 2. Run all cells to reproduce the analysis  
