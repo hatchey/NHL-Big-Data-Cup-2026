@@ -54,7 +54,8 @@ Key features derived from the model include:
 - pandas  
 - matplotlib  
 - scikit-learn  
-- networkx  
+- networkx
+- scipy  
 - sportypy  
 
 Additional standard libraries:
